@@ -23,7 +23,7 @@ This is list of known compatible USB hubs:
 | Apple              | Thunderbolt Display 27" (internal USB hub)             |           | 2011    | 2016 |
 | Apple              | USB Keyboard With Numeric Pad (internal USB hub)       |           | 2011    |      |
 | Asus               | Z87-PLUS Motherboard (onboard USB hubs)                |           | 2013    | 2016 |
-| B&B Electronics    | UHR204                                                 |           | 2013    |      |
+| B&B Electronics    | UHR204                                                 |`0856:db00`| 2013    |      |
 | Belkin             | F5U701-BLK                                             |           | 2008    | 2012 |
 | Circuitco          | Beagleboard-xM (internal USB hub)                      |`0424:9514`| 2010    |      |
 | CyberPower         | CP-H420P                                               |`0409:0059`| 2004    |      |
